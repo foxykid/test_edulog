@@ -43,10 +43,10 @@ GET	| /gps/list?page={pageSize}&size={size}	| View a list of latest tracks	|
 
 # Diagram
 
-<img width="683" height="734" alt="Upload file flow" src="https://github.com/foxykid/test_edulog/blob/main/diagram/upload_diagram.png">
+<img width="683" height="734" alt="Upload file flow" src="https://github.com/foxykid/test_edulog/blob/master/diagram/upload_diagram.png">
 
 #### Get latest tracks
-<img width="508" height="564" alt="Get latest tracks" src="https://github.com/foxykid/test_edulog/blob/main/diagram/list_diagram.png">
+<img width="508" height="564" alt="Get latest tracks" src="https://github.com/foxykid/test_edulog/blob/master/diagram/list_diagram.png">
 
 #### View the details of track file
-<img width="443" height="744" alt="Details of track" src="https://github.com/foxykid/test_edulog/blob/main/diagram/detail_diagram.png">
+<img width="443" height="744" alt="Details of track" src="https://github.com/foxykid/test_edulog/blob/master/diagram/detail_diagram.png">
